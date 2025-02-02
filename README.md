@@ -33,18 +33,23 @@
 
 <h2 align="center">💡 Get to Know Me</h2>
 
+###
 
 <p align="center">🚀 Hey there, I’m Dulanka Nimsara! 👋<br><br>💼 Professional Focus :<br>Passionate about Web Development<br> I'm currently student at SLIATE Institute of Technology<br> where I thrive on building impactful solutions and exploring new tech frontiers.<br><br><br>⚡ Beyond Work :<br>When I’m not coding full-stack applications, you’ll find me diving into the latest front-end and back-end frameworks, experimenting with RESTful APIs, improving my database management skills, and working on personal projects to enhance my development toolkit. 💻✨<br><br><br>💡 Fun Fact : <br>I love tackling challenging coding puzzles and solving them in creative ways.it's my favorite way to unwind! <br><br><br>📬 Let’s Connect :<br>I’m always excited to collaborate, share ideas, or discuss tech trends. Let’s build something awesome together! 🚀</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/dulankagunathilaka/dulankagunathilaka/output/snake.svg" align="center" alt="Snake animation" />
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/dulankagunathilaka/dulankagunathilaka/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<br clear="both">
+
 <h2 align="center">🛠 Language and tools</h2>
 
-
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -76,7 +81,7 @@
 
 <h3 align="center">📈 My Coding Growth in Action</h3>
 
-
+###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulankagunathilaka&area=false&hide_border=false&hide_title=false&theme=github-dark" height="150" alt="activity-graph graph" /> <br>
