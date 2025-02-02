@@ -41,12 +41,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/dulankagunathilaka/dulankagunathilaka/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <h2 align="center">🛠 Language and tools</h2>
 
 ###
