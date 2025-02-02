@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dulankagunathilaka/dulankagunathilaka/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/dulankagunathilaka/dulankagunathilaka/output/snake.svg" align="center" alt="Snake animation" />
 
 ###
 
