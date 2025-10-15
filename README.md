@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQEOc4yDJX41xQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726974100134?e=1744243200&v=beta&t=PkSMdKI0PfDCo3bMUsoHx7u6h-X3BMSNgw6bgVlVDMc"  />
+<img src="https://capsule-render.vercel.app/api?type=soft&fontColor=7C3AED&text=Dulanka+Nimsara&animation=twinkling&fontSize=50&height=180&desc=Full+Stack+Developer&descSize=22&descAlignY=80&color=0:7C3AED,50:000000,100:7C3AED&stroke=7C3AED&strokeWidth=2" />
 </div>
 
 ###
