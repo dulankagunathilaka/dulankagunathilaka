@@ -1,87 +1,191 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&fontColor=7C3AED&text=Dulanka+Nimsara&animation=twinkling&fontSize=50&height=180&desc=Full+Stack+Developer&descSize=22&descAlignY=80&color=0:7C3AED,50:000000,100:7C3AED&stroke=7C3AED&strokeWidth=2" />
+
+![Profile Animation](https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:0099ff,100:00ccff&height=300&section=header&text=DULANKA%20NIMSARA&fontSize=75&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Intern%20Full%20Stack%20Developer%20%7C%20Team%20Leader&descSize=22&descColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/dulanka-gunathilaka-93a184323)
+[![GitHub](https://img.shields.io/badge/GitHub-0066ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0066ff)](https://github.com/dulankagunathilaka)
+[![Email](https://img.shields.io/badge/Email-0099ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0099ff)](mailto:dulankanimsaradn@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-00ccff?style=for-the-badge&logo=discord&logoColor=white&labelColor=00ccff)](https://discord.com/users/earlybird__24)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0077B5&width=900&center=true&lines=Full+Stack+Developer+%7C+Intern;React+%E2%9C%93+Node.js+%E2%9C%93+PHP+%E2%9C%93;MongoDB+%E2%9C%93+MySQL+%E2%9C%93+Postman+%E2%9C%93;Team+Leader+in+Multiple+Projects;Always+Learning+%26+Growing" />
+
 </div>
 
-###
+---
+
+<img align="right" width="350" height="350" src="https://github-readme-stats.vercel.app/api?username=dulankagunathilaka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+## About Me
+
+> A passionate **Intern Full Stack Developer** at SLIATE Institute of Technology with a drive to build elegant digital solutions.
+
+I'm currently leading multiple full-stack projects while continuously expanding my technical expertise. My approach combines **strong technical skills** with **effective team leadership** to create impactful applications.
+
+### 🎯 Core Strengths
+
+- **Full Stack Development** - Building end-to-end solutions with modern technologies
+- **Team Leadership** - Guiding developers and coordinating project delivery
+- **Problem Solving** - Designing scalable architectures and optimizing performance
+- **Code Quality** - Writing clean, maintainable, and well-documented code
+
+<br clear="all"/>
+
+---
+
+## 💡 Tech Arsenal
 
 <div align="center">
-  <a href="https://linkedin.com/in/dulanka-gunathilaka-93a184323" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/earlybird__24" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCWEaq12_NOMUQAHj5uwxTmA" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yoyube logo"  />
-  </a>
-  <a href="dulankanimsaradn@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+
+### Frontend Layer
+<div>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </div>
 
-###
+### Backend Layer
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/REST%20API-0099ff?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+</div>
+
+### Data Layer
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Postman-00ccff?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
+
+### DevTools
+<div>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0066ff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Journey
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dulankagunathilaka.dulankagunathilaka&left_color=slateblue"  />
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dulankagunathilaka&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/dulankagunathilaka)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dulankagunathilaka&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/dulankagunathilaka)
+
 </div>
 
-###
+---
 
-<h1 align="center">🚀 Welcome to My Profile! 🌟</h1>
+## 🏆 Key Achievements
 
-###
+- **Multi-Project Leadership** - Successfully leading 3+ full-stack projects simultaneously
+- **Team Mentorship** - Actively mentoring junior developers and interns
+- **Clean Code Advocate** - Implementing best practices and design patterns
+- **Continuous Learner** - Always exploring new technologies and frameworks
 
-<h2 align="center">💡 Get to Know Me</h2>
+---
 
-###
-
-<p align="center">🚀 Hey there, I’m Dulanka Nimsara! 👋<br><br>💼 Professional Focus :<br>Passionate about Web Development<br> I'm currently student at SLIATE Institute of Technology<br> where I thrive on building impactful solutions and exploring new tech frontiers.<br><br><br>⚡ Beyond Work :<br>When I’m not coding full-stack applications, you’ll find me diving into the latest front-end and back-end frameworks, experimenting with RESTful APIs, improving my database management skills, and working on personal projects to enhance my development toolkit. 💻✨<br><br><br>💡 Fun Fact : <br>I love tackling challenging coding puzzles and solving them in creative ways.it's my favorite way to unwind! <br><br><br>📬 Let’s Connect :<br>I’m always excited to collaborate, share ideas, or discuss tech trends. Let’s build something awesome together! 🚀</p>
-
-###
-
-<br clear="both">
-
-<h2 align="center">🛠 Language and tools</h2>
-
-###
+## 🚀 Skill Matrix
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+| Skill | Proficiency | Status |
+|:---:|:---:|:---:|
+| **React** | ████████░░ 80% | Expert |
+| **JavaScript** | ████████░░ 80% | Expert |
+| **Node.js** | ████████░░ 80% | Expert |
+| **Express** | ███████░░░ 75% | Advanced |
+| **Git & GitHub** | ████████░░ 80% | Expert |
+| **MongoDB** | ███████░░░ 70% | Intermediate |
+| **MySQL** | ███████░░░ 70% | Intermediate |
+| **PHP** | ██████░░░░ 65% | Growing |
+| **Figma** | ██████░░░░ 65% | Growing |
+| **Leadership** | ███████░░░ 70% | Intermediate |
+
 </div>
 
-###
+---
 
-<h3 align="center">📈 My Coding Growth in Action</h3>
-
-###
+## 💼 Core Capabilities
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulankagunathilaka&area=false&hide_border=false&hide_title=false&theme=github-dark" height="150" alt="activity-graph graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dulankagunathilaka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=dulankagunathilaka&locale=en&mode=daily&theme=aura&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dulankagunathilaka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+
+| Domain | Capabilities | Proficiency |
+|:---|:---|:---:|
+| **Frontend** | React, Responsive Design, UI/UX | ████████░░ 85% |
+| **Backend** | Node.js, Express, RESTful APIs, PHP | ████████░░ 82% |
+| **Database** | MongoDB, MySQL, Data Modeling | ███████░░░ 70% |
+| **Leadership** | Team Coordination, Mentoring, Planning | ███████░░░ 72% |
+| **DevOps & Tools** | Git, GitHub, Postman, VS Code | ████████░░ 80% |
+
 </div>
 
-###
+---
+
+## 📈 Currently Exploring
+
+<div align="center">
+
+```
+🔄 Advanced React Patterns → Microservices Architecture
+↓
+⚙️ Cloud Deployment (AWS/GCP) → DevOps Fundamentals
+↓
+🏗️ System Design → Performance Optimization
+↓
+📚 Design Patterns → Clean Architecture
+```
+
+</div>
+
+---
+
+## 🌍 Connect & Collaborate
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<a href="https://linkedin.com/in/dulanka-gunathilaka-93a184323">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/dulankagunathilaka">
+<img src="https://img.shields.io/badge/GitHub-Follow-0066ff?style=for-the-badge&logo=github" />
+</a>
+</td>
+<td align="center">
+<a href="mailto:dulankanimsaradn@gmail.com">
+<img src="https://img.shields.io/badge/Email-Message-0099ff?style=for-the-badge&logo=gmail" />
+</a>
+</td>
+<td align="center">
+<a href="https://discord.com/users/earlybird__24">
+<img src="https://img.shields.io/badge/Discord-Chat-00ccff?style=for-the-badge&logo=discord" />
+</a>
+</td>
+</tr>
+</table>
+
+**Open to:** Collaborations • Technical Discussions • Learning Opportunities • Project Contributions
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:0099ff,100:00ccff&height=220&section=footer&text=Building%20Tomorrow%27s%20Solutions&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50&wave=true&animation=twinkling&stroke=ffffff&strokeWidth=2" />
+
+</div>
