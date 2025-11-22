@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Animation](https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:0099ff,100:00ccff&height=300&section=header&text=DULANKA%20NIMSARA&fontSize=75&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Intern%20Full%20Stack%20Developer%20%7C%20Team%20Leader&descSize=22&descColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2)
+![Profile Animation](https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:0099ff,100:00ccff&height=300&section=header&text=DULANKA%20NIMSARA&fontSize=75&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Expert%20Team%20Lead&descSize=22&descColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=2)
 
 <br/>
 
@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-0099ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0099ff)](mailto:dulankanimsaradn@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-00ccff?style=for-the-badge&logo=discord&logoColor=white&labelColor=00ccff)](https://discord.com/users/earlybird__24)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0077B5&width=900&center=true&lines=Full+Stack+Developer+%7C+Intern;React+%E2%9C%93+Node.js+%E2%9C%93+PHP+%E2%9C%93;MongoDB+%E2%9C%93+MySQL+%E2%9C%93+Postman+%E2%9C%93;Team+Leader+in+Multiple+Projects;Always+Learning+%26+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=0077B5&width=900&center=true&lines=Full+Stack+Developer;Learning+React+%E2%9C%93+Node.js+%E2%9C%93+PHP;Expert+Team+Lead;Leading+Multiple+Teams;Building+%26+Growing" />
 
 </div>
 
@@ -19,16 +19,16 @@
 
 ## About Me
 
-> A passionate **Intern Full Stack Developer** at SLIATE Institute of Technology with a drive to build elegant digital solutions.
+> A focused **Full Stack Developer** learning and building modern web applications while excelling as an **Expert Team Lead** at SLIATE Institute of Technology.
 
-I'm currently leading multiple full-stack projects while continuously expanding my technical expertise. My approach combines **strong technical skills** with **effective team leadership** to create impactful applications.
+I'm currently leading multiple development teams and projects while continuously expanding my full-stack technical skills. My strength lies in **exceptional team leadership** combined with **growing technical expertise** to deliver impactful solutions.
 
 ### 🎯 Core Strengths
 
-- **Full Stack Development** - Building end-to-end solutions with modern technologies
-- **Team Leadership** - Guiding developers and coordinating project delivery
-- **Problem Solving** - Designing scalable architectures and optimizing performance
-- **Code Quality** - Writing clean, maintainable, and well-documented code
+- **Team Leadership** - Expert at guiding developers, coordinating teams, and driving project success
+- **Full Stack Development** - Actively learning and building scalable end-to-end solutions
+- **Problem Solving** - Designing effective approaches and optimizing team performance
+- **Code Quality** - Writing clean, maintainable code and establishing best practices
 
 <br clear="all"/>
 
@@ -87,10 +87,10 @@ I'm currently leading multiple full-stack projects while continuously expanding 
 
 ## 🏆 Key Achievements
 
-- **Multi-Project Leadership** - Successfully leading 3+ full-stack projects simultaneously
-- **Team Mentorship** - Actively mentoring junior developers and interns
-- **Clean Code Advocate** - Implementing best practices and design patterns
-- **Continuous Learner** - Always exploring new technologies and frameworks
+- **Expert Team Leadership** - Leading 3+ development teams with excellent coordination and delivery
+- **Successful Project Delivery** - Coordinating multiple full-stack projects from concept to completion
+- **Developer Mentorship** - Actively mentoring junior developers and interns for growth
+- **Continuous Learner** - Building full-stack skills while maintaining leadership excellence
 
 ---
 
@@ -100,16 +100,18 @@ I'm currently leading multiple full-stack projects while continuously expanding 
 
 | Skill | Proficiency | Status |
 |:---:|:---:|:---:|
-| **React** | ████████░░ 80% | Expert |
-| **JavaScript** | ████████░░ 80% | Expert |
-| **Node.js** | ████████░░ 80% | Expert |
-| **Express** | ███████░░░ 75% | Advanced |
-| **Git & GitHub** | ████████░░ 80% | Expert |
+| **Team Leadership** | ████████░░ 90% | Expert |
+| **Project Coordination** | ████████░░ 85% | Expert |
+| **Developer Mentoring** | ████████░░ 85% | Expert |
+| **React** | ████████░░ 80% | Proficient |
+| **JavaScript** | ████████░░ 80% | Proficient |
+| **Node.js** | ████████░░ 80% | Proficient |
+| **Git & GitHub** | ████████░░ 80% | Proficient |
+| **Express** | ███████░░░ 75% | Proficient |
 | **MongoDB** | ███████░░░ 70% | Intermediate |
 | **MySQL** | ███████░░░ 70% | Intermediate |
 | **PHP** | ██████░░░░ 65% | Growing |
 | **Figma** | ██████░░░░ 65% | Growing |
-| **Leadership** | ███████░░░ 70% | Intermediate |
 
 </div>
 
@@ -121,11 +123,11 @@ I'm currently leading multiple full-stack projects while continuously expanding 
 
 | Domain | Capabilities | Proficiency |
 |:---|:---|:---:|
-| **Frontend** | React, Responsive Design, UI/UX | ████████░░ 85% |
-| **Backend** | Node.js, Express, RESTful APIs, PHP | ████████░░ 82% |
+| **Leadership** | Team Coordination, Project Management, Developer Mentoring | ████████░░ 90% |
+| **Frontend** | React, Responsive Design, UI/UX Implementation | ████████░░ 80% |
+| **Backend** | Node.js, Express, RESTful APIs, PHP | ████████░░ 80% |
+| **DevOps & Tools** | Git, GitHub, Postman, VS Code, CI/CD | ████████░░ 80% |
 | **Database** | MongoDB, MySQL, Data Modeling | ███████░░░ 70% |
-| **Leadership** | Team Coordination, Mentoring, Planning | ███████░░░ 72% |
-| **DevOps & Tools** | Git, GitHub, Postman, VS Code | ████████░░ 80% |
 
 </div>
 
